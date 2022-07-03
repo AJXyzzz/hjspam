@@ -1,2 +1,2 @@
 # hjspam
-FOR SALE
+FOR PC USERS
