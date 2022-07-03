@@ -1,4 +1,0 @@
-#!/bin/sh
-
-cd /opt/HJsms
-python3 hjspam.py
